@@ -5,7 +5,6 @@
 }
 .main{
     height: 50vh;
-    margin: auto;
     display: flex;
     justify-content: center;
     align-items: center;
