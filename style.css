@@ -1,0 +1,21 @@
+.images{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column-gap: 10px;
+}
+.main{
+    height: 50vh;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main img{
+    margin: auto;
+}
+.border{
+    border: 3px solid lightseagreen ;
+}
+
+
+
